@@ -44,7 +44,7 @@
         "wk:page":"Kibaoni"
     },
     "wof:country":"TZ",
-    "wof:geomhash":"cfca2e4bcef933902d18eb99b6bceeab",
+    "wof:geomhash":"8e7c4dad650e2b8a804df08902d2fac1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,5 +70,5 @@
     35.80909000000001,
     -3.37105
 ],
-  "geometry": {"coordinates":[35.80909000000001,-3.37105],"type":"Point"}
+  "geometry": {"coordinates":[35.80909,-3.37105],"type":"Point"}
 }

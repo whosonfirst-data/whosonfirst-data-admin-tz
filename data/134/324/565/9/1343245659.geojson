@@ -50,7 +50,7 @@
         "wk:page":"Matemanga"
     },
     "wof:country":"TZ",
-    "wof:geomhash":"12aa1c47ab23db7955765f14fd897124",
+    "wof:geomhash":"3b96f677fbc99c06333b2086f40e79d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,5 +76,5 @@
     37.0,
     -10.75
 ],
-  "geometry": {"coordinates":[37.0,-10.75],"type":"Point"}
+  "geometry": {"coordinates":[37,-10.75],"type":"Point"}
 }

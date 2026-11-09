@@ -47,7 +47,7 @@
         "wk:page":"Handali"
     },
     "wof:country":"TZ",
-    "wof:geomhash":"c517c4f7e88aa275c085a3e25a143208",
+    "wof:geomhash":"c85ca5f285484c2150108323ec15fcf9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,5 +73,5 @@
     36.0,
     -6.33333
 ],
-  "geometry": {"coordinates":[36.0,-6.33333],"type":"Point"}
+  "geometry": {"coordinates":[36,-6.33333],"type":"Point"}
 }

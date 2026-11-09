@@ -44,7 +44,7 @@
         "wk:page":"Kabanga%2C_Kigoma_Region"
     },
     "wof:country":"TZ",
-    "wof:geomhash":"da45f629d96c7a033b2d1235149a51dc",
+    "wof:geomhash":"30993a1c7374bac7b170202ecd681421",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,5 +70,5 @@
     31.36667000000001,
     -4.9
 ],
-  "geometry": {"coordinates":[31.36667000000001,-4.9],"type":"Point"}
+  "geometry": {"coordinates":[31.36667,-4.9],"type":"Point"}
 }

@@ -50,7 +50,7 @@
         "wk:page":"Nainokanoka"
     },
     "wof:country":"TZ",
-    "wof:geomhash":"e7ffd78c120eba8e139f11b4047a17d8",
+    "wof:geomhash":"38e0f65576c83dcaa2254eb2b5a2919b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,5 +76,5 @@
     35.66667,
     -3.0
 ],
-  "geometry": {"coordinates":[35.66667,-3.0],"type":"Point"}
+  "geometry": {"coordinates":[35.66667,-3],"type":"Point"}
 }

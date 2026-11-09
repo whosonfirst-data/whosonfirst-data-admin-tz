@@ -43,7 +43,7 @@
         "gn:id":152798
     },
     "wof:country":"TZ",
-    "wof:geomhash":"c6a5b6ae1c619e9eab544c4225c7720e",
+    "wof:geomhash":"96e6dfc0d15eb3b89cf32a4dd9085fb4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,5 +69,5 @@
     30.36667000000001,
     -4.85
 ],
-  "geometry": {"coordinates":[30.36667000000001,-4.85],"type":"Point"}
+  "geometry": {"coordinates":[30.36667,-4.85],"type":"Point"}
 }
