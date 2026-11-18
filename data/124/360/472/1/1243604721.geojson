@@ -103,12 +103,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Ugalla"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u4e4c\u52a0\u62c9\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u70cf\u52a0\u62c9\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -133,7 +127,7 @@
         }
     ],
     "wof:id":1243604721,
-    "wof:lastmodified":1636501546,
+    "wof:lastmodified":1794999722,
     "wof:name":"Ugalla",
     "wof:parent_id":1108693151,
     "wof:placetype":"locality",

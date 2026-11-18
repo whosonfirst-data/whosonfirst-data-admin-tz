@@ -101,12 +101,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Shangani"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5c1a\u52a0\u5c3c\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5c1a\u52a0\u5c3c\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -126,7 +120,7 @@
         }
     ],
     "wof:id":1226003197,
-    "wof:lastmodified":1636501552,
+    "wof:lastmodified":1794999722,
     "wof:name":"Shangani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
