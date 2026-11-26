@@ -23,6 +23,12 @@
     "lbl:latitude":-8.151271,
     "lbl:longitude":33.525476,
     "lbl:min_zoom":8.0,
+    "mailwoman:sources":[
+        {
+            "citation":"The union of the Who's On First county records Mbeya Urban (421170113), Kyela (421192909), Chunya (1108693005), Mbeya Rural (1108693007), Rungwe (1108693009), Mbarali (1108693015). Each member is assigned to the region that GeoNames files most of the populated places inside its boundary under, counted on 2026-11-26. The Chunya record's boundary predates the creation of Songwe District from part of it: GeoNames files 61% of the populated places inside it under Mbeya Region and the rest under Songwe Region.",
+            "property":"geometry"
+        }
+    ],
     "meso:name_alt1":"",
     "meso:name_local":"Mbeya",
     "mps:latitude":-8.2388,
@@ -341,7 +347,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1795729207,
+    "wof:lastmodified":1795729302,
     "wof:name":"Mbeya",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
