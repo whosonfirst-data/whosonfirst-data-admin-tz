@@ -137,7 +137,7 @@
     "wof:belongsto":[
         102191573,
         85632227,
-        85679641,
+        9895008357,
         1108693013
     ],
     "wof:breaches":[],
@@ -152,11 +152,11 @@
             "country_id":85632227,
             "county_id":1108693013,
             "locality_id":1310100029,
-            "region_id":85679641
+            "region_id":9895008357
         }
     ],
     "wof:id":1310100029,
-    "wof:lastmodified":1636501530,
+    "wof:lastmodified":1795729207,
     "wof:name":"Tabora",
     "wof:parent_id":1108693013,
     "wof:placetype":"locality",

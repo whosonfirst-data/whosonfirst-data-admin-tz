@@ -35,7 +35,7 @@
     "wof:belongsto":[
         102191573,
         85632227,
-        85679641,
+        9895008357,
         1108693019
     ],
     "wof:breaches":[],
@@ -50,11 +50,11 @@
             "country_id":85632227,
             "county_id":1108693019,
             "locality_id":1226734157,
-            "region_id":85679641
+            "region_id":9895008357
         }
     ],
     "wof:id":1226734157,
-    "wof:lastmodified":1566590995,
+    "wof:lastmodified":1795729207,
     "wof:name":"Tungwa",
     "wof:parent_id":1108693019,
     "wof:placetype":"locality",
