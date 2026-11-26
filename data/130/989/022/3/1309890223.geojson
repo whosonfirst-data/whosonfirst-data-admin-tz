@@ -41,7 +41,7 @@
     "wof:belongsto":[
         102191573,
         85632227,
-        85679641,
+        9895008357,
         1108693019
     ],
     "wof:breaches":[],
@@ -57,11 +57,11 @@
             "country_id":85632227,
             "county_id":1108693019,
             "locality_id":1309890223,
-            "region_id":85679641
+            "region_id":9895008357
         }
     ],
     "wof:id":1309890223,
-    "wof:lastmodified":1566590799,
+    "wof:lastmodified":1795729207,
     "wof:name":"Msangano",
     "wof:parent_id":1108693019,
     "wof:placetype":"locality",

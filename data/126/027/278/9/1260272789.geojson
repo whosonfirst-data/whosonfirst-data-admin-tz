@@ -44,7 +44,7 @@
     "wof:belongsto":[
         102191573,
         85632227,
-        85679641,
+        9895008357,
         1108693011
     ],
     "wof:breaches":[],
@@ -59,11 +59,11 @@
             "country_id":85632227,
             "county_id":1108693011,
             "locality_id":1260272789,
-            "region_id":85679641
+            "region_id":9895008357
         }
     ],
     "wof:id":1260272789,
-    "wof:lastmodified":1566590656,
+    "wof:lastmodified":1795729207,
     "wof:name":"Isoko",
     "wof:parent_id":1108693011,
     "wof:placetype":"locality",

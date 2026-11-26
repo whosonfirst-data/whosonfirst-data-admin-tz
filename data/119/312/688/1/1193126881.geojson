@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191573,
         85632227,
-        85679641,
+        9895008357,
         1108693005
     ],
     "wof:breaches":[],
@@ -54,11 +54,11 @@
             "country_id":85632227,
             "county_id":1108693005,
             "locality_id":1193126881,
-            "region_id":85679641
+            "region_id":9895008357
         }
     ],
     "wof:id":1193126881,
-    "wof:lastmodified":1566590626,
+    "wof:lastmodified":1795729207,
     "wof:name":"Panjalo",
     "wof:parent_id":1108693005,
     "wof:placetype":"locality",
