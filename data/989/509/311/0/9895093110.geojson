@@ -1,0 +1,75 @@
+{
+  "id": 9895093110,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56416,-3.00083,37.56416,-3.00083",
+    "geom:latitude":-3.00083,
+    "geom:longitude":37.56416,
+    "gn:population":18000,
+    "iso:country":"TZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11905975: name \"Tarakea\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11905975"
+        },
+        {
+            "citation":"GeoNames populated place 11905975: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11905975"
+        },
+        {
+            "citation":"GeoNames populated place 11905975: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11905975"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171981 (Rombo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227,
+        85679737,
+        102191573,
+        421171981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11905975
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7dc7eb3870d959b5614495f2ab102727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421171981,
+            "locality_id":9895093110,
+            "region_id":85679737
+        }
+    ],
+    "wof:id":9895093110,
+    "wof:lastmodified":1795747262,
+    "wof:name":"Tarakea",
+    "wof:parent_id":421171981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56416,
+    -3.00083,
+    37.56416,
+    -3.00083
+],
+  "geometry": {"coordinates":[37.56416,-3.00083],"type":"Point"}
+}

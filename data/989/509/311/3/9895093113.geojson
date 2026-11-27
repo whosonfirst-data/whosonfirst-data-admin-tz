@@ -1,0 +1,75 @@
+{
+  "id": 9895093113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.2893,-6.97558,39.2893,-6.97558",
+    "geom:latitude":-6.97558,
+    "geom:longitude":39.2893,
+    "gn:population":45000,
+    "iso:country":"TZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13132460: name \"Mwandege\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13132460"
+        },
+        {
+            "citation":"GeoNames populated place 13132460: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13132460"
+        },
+        {
+            "citation":"GeoNames populated place 13132460: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13132460"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421183841 (Mkuranga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227,
+        85679691,
+        102191573,
+        421183841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13132460
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bc43e44b0c33eb8745416e381f71ea72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421183841,
+            "locality_id":9895093113,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":9895093113,
+    "wof:lastmodified":1795747262,
+    "wof:name":"Mwandege",
+    "wof:parent_id":421183841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.2893,
+    -6.97558,
+    39.2893,
+    -6.97558
+],
+  "geometry": {"coordinates":[39.2893,-6.97558],"type":"Point"}
+}
